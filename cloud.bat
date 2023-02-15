@@ -1444,3 +1444,4 @@ echo.
 powershell -Command "Invoke-WebRequest https://github.com/ur-dude/cheat/raw/main/gs.dll -Outfile gs.dll"
 timeout 2
 echo [+] Cloud downloaded
+pause
